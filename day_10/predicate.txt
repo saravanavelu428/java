@@ -1,0 +1,7 @@
+java.uti.Function.preddicate
+
+Predicate: Predicate -boolean_test
+
+java.util.function..
+@FunctionofInterface-->Lambda Expression---apply()
+Predi
